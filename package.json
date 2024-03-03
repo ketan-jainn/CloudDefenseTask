@@ -1,0 +1,16 @@
+{
+  "name": "dependency_parser",
+  "version": "1.0.0",
+  "description": "A parser to get all dependencies from a Github repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ketan Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "node-fetch": "^3.3.2",
+    "xml2js": "^0.6.2"
+  }
+}
